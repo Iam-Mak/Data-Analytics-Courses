@@ -18,5 +18,6 @@ You learned about the David McCandless method in the first lesson on effective d
 This approach is a useful set of questions that can help consumers of data visualization critique what they are consuming and determine how effective it is. The Checkup has three questions:
 - What is the practical question? 
 - What does the data say?
-- What does the visual say? 
+- What does the visual say?
+
 From Google Data Analytics Professional Certificate (Share Data Through the Art of Visualization)
