@@ -19,3 +19,4 @@ This approach is a useful set of questions that can help consumers of data visua
 - What is the practical question? 
 - What does the data say?
 - What does the visual say? 
+From Google Data Analytics Professional Certificate (Share Data Through the Art of Visualization)
