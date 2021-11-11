@@ -51,7 +51,7 @@ Make sure the written components of the visual, like the labels on a bar chart, 
 **4. Color**
 There are a lot of important considerations when thinking about using color in your visuals. These include using color consciously and meaningfully, staying consistent throughout your visuals, being considerate of what colors mean to different people, and using inclusive color scales that make sense for everyone viewing them.
 
-**5. Numbers of things***
+**5. Numbers of things**
 Think about how many elements you include in any visual. If your visualization uses lines, try to plot five or fewer. If that isn’t possible, use color or hue to emphasize important lines. Also, when using visuals like pie charts, try to keep the number of segments to less than seven since too many elements can be distracting. 
 
 
