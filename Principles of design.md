@@ -34,6 +34,19 @@ In the example below, the different colored categories of this stacked column ch
 
 **9. Unity:** The last principle is unity. This means that your final data visualization should be cohesive. If the visual is disjointed or not well organized, it will be confusing and overwhelming.
 
+
+# Design thinking for visualization improvement
+Design thinking for data visualization involves five phases:<br />
+**1. Empathize:** Thinking about the emotions and needs of the target audience for the data visualization. <br />
+**2. Define:** Figuring out exactly what your audience needs from the data <br />
+**3. Ideate:** Generating ideas for data visualization <br />
+**4. Prototype:** Putting visualizations together for testing and feedback <br />
+**5. Test:** Showing prototype visualizations to people before stakeholders see them <br />
+
+### Refer to the following articles for more information about design thinking:
+- [Three Critical Aspects of Design Thinking for Big Data Solutions](https://dataconomy.com/2019/05/three-critical-aspects-of-design-thinking-for-big-data-solutions/) <br />
+- [Data and Design Thinking: Why Use Data in the Design Process?](https://www.enginess.io/insights/data-and-design-thinking)
+
 #### From Google Data Analytics Professional Certificate (Share Data Through the Art of Visualization)
 
 
