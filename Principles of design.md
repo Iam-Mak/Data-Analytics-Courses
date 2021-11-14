@@ -34,6 +34,8 @@ In the example below, the different colored categories of this stacked column ch
 
 **9. Unity:** The last principle is unity. This means that your final data visualization should be cohesive. If the visual is disjointed or not well organized, it will be confusing and overwhelming.
 
+#### From Google Data Analytics Professional Certificate (Share Data Through the Art of Visualization)
+
 
 
 
