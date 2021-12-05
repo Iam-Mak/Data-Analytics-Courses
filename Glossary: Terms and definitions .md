@@ -92,7 +92,7 @@
 Dashboard: A tool that monitors live, incoming data
 Data: A collection of facts
 Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
-Data analysis: The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+- **Data analysis:** The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
 Data analysis process: The six phases of ask, prepare, process, analyze, share, and act whose purpose is to gain insights that drive informed decision-making
 Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making
 Data analytics: The science of data
@@ -103,7 +103,7 @@ Data composition: The process of combining the individual parts in a visualizati
 Data constraints: The criteria that determine whether a piece of a data is clean and valid
 Data design: How information is organized
 Data-driven decision-making: Using facts to guide business strategy
-Data ecosystem: The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
+- **Data ecosystem:** The various elements that interact with one another in order to produce, manage, store, organize, analyze, and share data
 Data element: A piece of information in a dataset 
 Data engineer: A professional who transforms data into a useful format for analysis and gives it a reliable infrastructure
 Data ethics: Well-founded standards of right and wrong that dictate how data is collected, shared, and used
