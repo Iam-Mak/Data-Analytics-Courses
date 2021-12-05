@@ -26,69 +26,69 @@
 - Audio file: Digitized audio storage usually in an MP3, AAC, or other compressed format
 - AVERAGE: A spreadsheet function that returns an average of the values from a selected range
 - AVERAGEIF: A spreadsheet function that returns the average of all cell values from a given range that meet a specified condition 
-B
-Bad data source: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC) 
-Balance: The design principle of creating aesthetic appeal and clarity in a data visualization by evenly distributing visual elements
-Bar graph: A data visualization that uses size to contrast and compare two or more values
-Bias: A conscious or subconscious preference in favor of or against a person, group of people, or thing
-Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems 
-Boolean data: A data type with only two possible values, usually true or false
-Borders: Lines that can be added around two or more cells on a spreadsheet
-Box plot: A data visualization that displays the distribution of values along an x-axis
-Bubble chart: A data visualization that displays individual data points as bubbles, comparing numeric values by their relative size 
-Bullet graph: A data visualization that displays data as a horizontal bar chart moving toward a desired value 
-Business metric: A standard of measurement used to solve a business task
-Business task: The question or problem data analysis resolves for a business
-C
-C# : An object-oriented programming language used to create games and mobile apps in the .NET open source developer platform
-C++: An extension of the C programming language that is used to create console games, such as those for Xbox
-Calculated field: A new field within a pivot table that carries out certain calculations based on the values of other fields
-Calculus: A branch of mathematics that involves the study of rates of change and the changes between values that are related by a function 
-CASE: A SQL statement that returns records that meet conditions by including an if/then statement in a query
-Case study: A common way for employers to assess job skills and gain insight into how a candidate approaches common data-related challenges
-CAST: A SQL function that converts data from one datatype to another
-Causation: When an action directly leads to an outcome, such as a cause-effect relationship
-Cell reference: A cell or a range of cells in a worksheet typically used in formulas and functions
-Changelog: A file containing a chronologically ordered list of modifications made to a project
-Channel: A visual aspect or variable that represents characteristics of the data in a visualization
-Chart: A graphical representation of data from a worksheet
-Circle view: A data visualization that shows comparative strength in data
-Clean data: Data that is complete, correct, and relevant to the problem being solved
-Cloud: A place to keep data online, rather than a computer hard drive
-Cluster: A collection of data points on a data visualization with similar values
-COALESCE: A SQL function that returns non-null values in a list
-Code chunk: A piece of code added in an R Markdown file that is used to process, visualize or analyze data
-Coding: The process of writing instructions to a computer in the syntax of a specific programming language
-Column chart: A data visualization that uses individual data points for a changing variable, represented as vertical columns
-Combo chart: A data visualization that combines more than one visualization type 
-Compatibility: How well two or more datasets are able to work together
-Completeness: The degree to which data contains all desired components or measures
-Computer programming: The process of giving instructions to a computer in order to perform an action or set of actions 
-CONCAT: A SQL function that adds strings together to create new text strings that can be used as unique keys
-CONCATENATE: A spreadsheet function that joins together two or more text strings
-Conditional formatting: A spreadsheet tool that changes how cells appear when values meet specific conditions
-Conditional statement: A declaration that if a certain condition holds, then a certain event must take place
-Confidence interval: A range of values that conveys how likely a statistical estimate reflects the population
-Confidence level: The probability that a sample size accurately reflects the greater population
-Confirmation bias: The tendency to search for or interpret information in a way that confirms pre-existing beliefs
-Consent: The aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it
-Consistency: The degree to which data is repeatable from different points of entry or collection
-Context: The condition in which something exists or happens
-Continuous data: Data that is measured and can have almost any numeric value
-CONVERT: A SQL function that changes the unit of measurement of a value in data
-Cookie: A small file stored on a computer that contains information about its users
-Correlation: The measure of the degree to which two variables change in relationship to each other
-COUNT: A spreadsheet function that counts the number of cells within a range the meet a specified condition
-COUNTA: A spreadsheet function that counts the total number of values within a specified range that meet specified criteria
-COUNTIF: A spreadsheet function that returns the number of cells within a range that match a specified value
-COUNT DISTINCT: A SQL function that only returns the distinct values in a specified range
-CRAN (Comprehensive R Archive Network) (R): An online archive with R packages, source code, manuals, and documentation
-CREATE TABLE: A SQL clause that adds a temporary table to a database that can be used by multiple people
-Cross-field validation: A process that ensures certain conditions for multiple data fields are satisfied
-CSS (Cascading Style Sheets): A programming language used for web page design that controls graphic elements and page presentation
-CSV (comma-separated values) file: A delimited text file that uses a comma to separate values
-Currency: The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions
-D
+### B
+- Bad data source: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC) 
+- Balance: The design principle of creating aesthetic appeal and clarity in a data visualization by evenly distributing visual elements
+- Bar graph: A data visualization that uses size to contrast and compare two or more values
+- Bias: A conscious or subconscious preference in favor of or against a person, group of people, or thing
+- Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems 
+- Boolean data: A data type with only two possible values, usually true or false
+- Borders: Lines that can be added around two or more cells on a spreadsheet
+- Box plot: A data visualization that displays the distribution of values along an x-axis
+- Bubble chart: A data visualization that displays individual data points as bubbles, comparing numeric values by their relative size 
+- Bullet graph: A data visualization that displays data as a horizontal bar chart moving toward a desired value 
+- Business metric: A standard of measurement used to solve a business task
+- Business task: The question or problem data analysis resolves for a business
+### C
+- C# : An object-oriented programming language used to create games and mobile apps in the .NET open source developer platform
+- C++: An extension of the C programming language that is used to create console games, such as those for Xbox
+- Calculated field: A new field within a pivot table that carries out certain calculations based on the values of other fields
+- Calculus: A branch of mathematics that involves the study of rates of change and the changes between values that are related by a function 
+- CASE: A SQL statement that returns records that meet conditions by including an if/then statement in a query
+- Case study: A common way for employers to assess job skills and gain insight into how a candidate approaches common data-related challenges
+- CAST: A SQL function that converts data from one datatype to another
+- Causation: When an action directly leads to an outcome, such as a cause-effect relationship
+- Cell reference: A cell or a range of cells in a worksheet typically used in formulas and functions
+- Changelog: A file containing a chronologically ordered list of modifications made to a project
+- Channel: A visual aspect or variable that represents characteristics of the data in a visualization
+- Chart: A graphical representation of data from a worksheet
+- Circle view: A data visualization that shows comparative strength in data
+- Clean data: Data that is complete, correct, and relevant to the problem being solved
+- Cloud: A place to keep data online, rather than a computer hard drive
+- Cluster: A collection of data points on a data visualization with similar values
+- COALESCE: A SQL function that returns non-null values in a list
+- Code chunk: A piece of code added in an R Markdown file that is used to process, visualize or analyze data
+- Coding: The process of writing instructions to a computer in the syntax of a specific programming language
+- Column chart: A data visualization that uses individual data points for a changing variable, represented as vertical columns
+- Combo chart: A data visualization that combines more than one visualization type 
+- Compatibility: How well two or more datasets are able to work together
+- Completeness: The degree to which data contains all desired components or measures
+- Computer programming: The process of giving instructions to a computer in order to perform an action or set of actions 
+- CONCAT: A SQL function that adds strings together to create new text strings that can be used as unique keys
+- CONCATENATE: A spreadsheet function that joins together two or more text strings
+- Conditional formatting: A spreadsheet tool that changes how cells appear when values meet specific conditions
+- Conditional statement: A declaration that if a certain condition holds, then a certain event must take place
+- Confidence interval: A range of values that conveys how likely a statistical estimate reflects the population
+- Confidence level: The probability that a sample size accurately reflects the greater population
+- Confirmation bias: The tendency to search for or interpret information in a way that confirms pre-existing beliefs
+- Consent: The aspect of data ethics that presumes an individual’s right to know how and why their personal data will be used before agreeing to provide it
+- Consistency: The degree to which data is repeatable from different points of entry or collection
+- Context: The condition in which something exists or happens
+- Continuous data: Data that is measured and can have almost any numeric value
+- CONVERT: A SQL function that changes the unit of measurement of a value in data
+- Cookie: A small file stored on a computer that contains information about its users
+- Correlation: The measure of the degree to which two variables change in relationship to each other
+- COUNT: A spreadsheet function that counts the number of cells within a range the meet a specified condition
+- COUNTA: A spreadsheet function that counts the total number of values within a specified range that meet specified criteria
+- COUNTIF: A spreadsheet function that returns the number of cells within a range that match a specified value
+- COUNT DISTINCT: A SQL function that only returns the distinct values in a specified range
+- CRAN (Comprehensive R Archive Network) (R): An online archive with R packages, source code, manuals, and documentation
+- CREATE TABLE: A SQL clause that adds a temporary table to a database that can be used by multiple people
+- Cross-field validation: A process that ensures certain conditions for multiple data fields are satisfied
+- CSS (Cascading Style Sheets): A programming language used for web page design that controls graphic elements and page presentation
+- CSV (comma-separated values) file: A delimited text file that uses a comma to separate values
+- Currency: The aspect of data ethics that presumes individuals should be aware of financial transactions resulting from the use of their personal data and the scale of those transactions
+### D
 Dashboard: A tool that monitors live, incoming data
 Data: A collection of facts
 Data aggregation: The process of gathering data from multiple sources and combining it into a single, summarized collection
@@ -150,7 +150,7 @@ dplyr (R): An R package in Tidyverse that offers a consistent set of functions t
 DROP TABLE: A SQL clause that removes a temporary table from a database
 Duplicate data: Any record that inadvertently shares data with another record
 Dynamic visualizations: Data visualizations that are interactive or change over time
-E
+### E
 Elevator pitch: A short statement describing an idea or concept
 Emphasis: The design principle of arranging visual elements to focus the audience’s attention on important information in a data visualization
 Engagement: Capturing and holding someone’s interest and attention during a data presentation
@@ -158,7 +158,7 @@ Equation: A calculation that involves addition, subtraction, multiplication, or 
 Estimated response rate: The average number of people who typically complete a survey
 Ethics: Well-founded standards of right and wrong that prescribe what humans ought to do, usually in terms of rights, obligations, benefits to society, fairness, or specific virtues
 External data: Data that lives, and is generated, outside of an organization
-F
+### F
 Facets (R): A series of functions that splits data into subsets in a matrix of panels
 Factor (R): An object that stores categorical data where the data values are limited and usually based on a finite group, such as country or year
 Fairness: A quality of data analysis that does not create or reinforce bias 
@@ -177,7 +177,7 @@ FROM: The section of a query that indicates from which table(s) to extract the d
 Function: A preset command that automatically performs a specific process or task using the data in a spreadsheet
 Function (R): A body of reusable code for performing specific tasks in R
 FWF (fixed-width file): A text file with a specific format, which enables the saving of textual data in an organized fashion
-G
+### G
 GAM (generalized additive model) smoothing (R): A process for smoothing plots with a large number of points
 Gantt chart: A data visualization that displays the duration of events or activities on a timeline
 Gap analysis: A method for examining and evaluating the current state of a process in order to identify opportunities for improvement in the future
@@ -188,7 +188,7 @@ Geom (R): The geometric object used to represent data
 ggplot2 (R): An R package in Tidyverse that creates a variety of data visualizations by applying different visual properties to the data variables in R
 Good data source: A data source that is reliable, original, comprehensive, current, and cited (ROCCC) 
 GROUP BY: A SQL clause that groups rows that have the same values from a table into summary rows 
-H
+### H
 HAVING: A SQL clause that adds a filter to a query instead of the underlying table that can only be used with aggregate functions
 head() (R): An R function that returns a preview of the column names and the first few rows of a dataset
 Header: The first row in a spreadsheet that labels the type of data in each column
@@ -200,7 +200,7 @@ HTML (Hypertext Markup Language): The set of markup symbols or codes used to cre
 HTML5: A programming language that provides structure for web pages and connects to hosting platforms
 Hypothesis: A theory that one might try to prove or disprove with data
 Hypothesis testing: A process to determine if a survey or experiment has meaningful results
-I
+### I
 IDE (Integrated Development Environment): A software application that brings together all the tools a data analyst may want to use in a single place
 Incomplete data: Data that is missing important fields
 Inconsistent data: Data that uses different formats to represent the same thing
@@ -210,12 +210,11 @@ INNER JOIN : A SQL function that returns records with matching values in both ta
 Inner query: A SQL subquery that is inside of another SQL statement
 Internal data: Data that lives within a company’s own systems
 Interpretation bias: The tendency to interpret ambiguous situations in a positive or negative way
-J
+### J
 Java: A programming language widely used to create enterprise web applications that can run on multiple clients
 JOIN: A SQL function that is used to combine rows from two or more tables based on a related column
 Jupyter Notebook: An open-source web application used to create and share documents that contain live code, equations, visualizations and narrative text
-K
-L
+### L
 Label: Text in a visualization that identifies a value or describes a scale
 Labels and annotations (R): A group of R functions used for customizing a plot
 Leading question: A question that steers people toward a certain response 
@@ -233,7 +232,7 @@ Loess smoothing (R): A process used for smoothing plots with fewer than 1,000 po
 Log file: A computer-generated file that records events from operating systems and other software programs
 Logical operator: An operator that returns a logical data type
 Long data: A dataset in which each row is one time point per subject, so each subject has data in multiple rows
-M
+### M
 Mandatory: A data value that cannot be left blank or empty
 Map: A data visualization that organizes data geographically
 Mapping (R): The process of matching up a specific variable in a dataset with a specific aesthetic
@@ -261,7 +260,7 @@ MINIFS: A spreadsheet function that returns the minimum value from a given range
 Modulo: An operator (%) that returns the remainder when one number is divided by another
 Movement: The design principle of arranging visual elements to guide the audience’s eyes from one part of a data visualization to another
 mutate() (R): An R function that makes changes to a dataframe separating and merging columns or creating new variables 
-N
+### N
 Naming conventions: Consistent guidelines that describe the content, creation date, and version of a file in its name
 Narrative: (Refer to Story)
 Nested: Code that performs a particular function and is contained within code that performs a broader function
@@ -271,7 +270,7 @@ Nominal data: A type of qualitative data that is categorized without a set order
 Normalized database: A database in which only related data is stored in each table
 Notebook: An interactive, editable programming environment for creating data reports and showcasing data skills
 Null: An indication that a value does not exist in a dataset
-O
+### O
 Observation: The attributes that describe a piece of data contained in a row of a table
 Observer bias: The tendency for different people to observe things differently (also called experimenter bias)
 Open data: Data that is available to the public
@@ -285,7 +284,7 @@ Outdated data: Any data that has been superseded by newer and more accurate info
 OUTER JOIN: A SQL function that combines RIGHT and LEFT JOIN to return all matching records in both tables
 Outer query: A SQL statement containing a subquery 
 Ownership: The aspect of data ethics that presumes individuals own the raw data they provide and have primary control over its usage, processing, and sharing 
-P
+### P
 Package (R): A unit of reproducible R code
 Packed bubble chart: A data visualization that displays data in clustered circles
 Pattern: The design principle of using similar visual elements to demonstrate trends and relationships in a data visualization
@@ -305,12 +304,12 @@ Profit margin: A percentage that indicates how many cents of profit has been gen
 Programming language: A system of words and symbols used to write instructions that computers follow
 Proportion: The design principle of using the relative size and arrangement of visual elements to demonstrate information in a data visualization
 Python: A general-purpose programming language
-Q
+### Q
 Qualitative data: A subjective and explanatory measure of a quality or characteristic
 Quantitative data: A specific and objective measure, such as a number, quantity, or range
 Query: A request for data or information from a database
 Query language: A computer programming language used to communicate with a database
-R
+### R
 R: A programming language used for statistical analysis, visualization, and other data analysis 
 R Markdown: A file format for making dynamic documents with R
 R Notebook: A document for running code and displaying the graphs and charts that visualize the code
@@ -337,7 +336,7 @@ RIGHT JOIN: A SQL function that will return all records from the right table and
 Root cause: The reason why a problem occurs
 ROUND: A SQL function that returns a number rounded to a certain number of decimal places. 
 Ruby: An object-oriented programming language for web application development
-S
+### S
 Sample: In data analytics, a segment of a population that is representative of the entire population
 Sampling bias: Overrepresenting or underrepresenting certain members of a population as a result of working with a sample that is not representative of the population as a whole
 Scatter plot: A data visualization that represents relationships between different variables with individual data points without a connecting line 
@@ -385,52 +384,52 @@ SUMPRODUCT: A function that multiplies arrays and returns the sum of those produ
 Swift: A programming language for macOS, iOS, watchOS, and tvOS
 Symbol map: A data visualization that displays a mark over a given longitude and latitude
 Syntax: The predetermined structure of a language that includes all required words, symbols, and punctuation, as well as their proper placement
-T
-Tableau: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
-Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
-Temporary table: A database table that is created and exists temporarily on a database server
-Text data type: A sequence of characters and punctuation that contains textual information (also called string data type)
-Text string: A group of characters within a cell, most often composed of letters
-Third-party data: Data provided from outside sources who didn’t collect it directly
-Tibble (R): A streamlined variation of data frames 
-Tidy data (R): A way of standardizing the organization of data within R
-tidyr (R): An R package in Tidyverse used for data cleaning to make tidy data
-Tidyverse (R): A system of packages in R with a common design philosophy for data manipulation, exploration, and visualization
-Time-bound question: A question that specifies a timeframe to be studied 
-Transaction transparency: The aspect of data ethics that presumes all data-processing activities and algorithms should be explainable and understood by the individual who provides the data
-Transferable skills: Skills and qualities that can transfer from one job or industry to another
-TRIM: A function that removes leading, trailing, and repeated spaces in data
-TSV (Tab-separated values file): A text file that stores a data table by separating columns of data with tabs
-Turnover rate: The rate at which employees voluntarily leave a company
-Typecasting: Converting data from one type to another
-U
-Unbiased sampling: When the sample of the population being measured is representative of the population as a whole
-Underscores: Lines used to underline words and connect text characters
-Unfair question: A question that makes assumptions or is difficult to answer honestly 
-Unique: A value that can’t have a duplicate
-United States Census Bureau: An agency in the U.S. Department of Commerce that serves as the nation’s leading provider of quality data about its people and economy
-Unity: The design principle of using visual elements that complement each other to create aesthetic appeal and clarity in a data visualization
-Unstructured data: Data that is not organized in any easily identifiable manner
-V
-Validity: The degree to which data conforms to constraints when it is input, collected, or created
-VALUE: A spreadsheet function that converts a text string that represents a number to a numeric value
-Variable (R): A representation of a value in R that can be stored for later use 
-Variety: The design principle of using different kinds of visual elements in a data visualization to engage an audience
-Vector (R): A group of data elements of the same type stored in a one-dimensional sequence in R
-Verification: A process to confirm that a data-cleaning effort was well executed and the resulting data is accurate and reliable
-Video file: A collection of images, audio files, and other data usually encoded in a compressed format such as MP4, MV4, MOV, AVI, or FLV
-Vignette (R): Documentation for an R package that describes the problem the package is designed to solve, explains how its functions can be used, and lists any dependencies on other packages
-Visual form: The appearance of a data visualization that gives it structure and aesthetic appeal
-Visualization: (Refer to Data visualization) 
-VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to return a corresponding piece of information
-W
-WHERE: The section of a query that specifies criteria that the requested data must meet
-Wide data: A dataset in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject
-WITH: A SQL clause that creates a temporary table that can be queried multiple times
-World Health Organization: An organization whose primary role is to direct and coordinate international health within the United Nations system
-X
-X-axis: The horizontal line of a graph usually placed at the bottom, which is often used to represent time scales and discrete categories
-Y
-Y-axis: The vertical line of a graph usually placed to the left, which is often used to represent frequencies and other numerical variables
-YAML: A language that translates data to improve readability
+### T
+- Tableau: A business intelligence and analytics platform that helps people visualize, understand, and make decisions with data
+- Technical mindset: The ability to break things down into smaller steps or pieces and work with them in an orderly and logical way
+- Temporary table: A database table that is created and exists temporarily on a database server
+- Text data type: A sequence of characters and punctuation that contains textual information (also called string data type)
+- Text string: A group of characters within a cell, most often composed of letters
+- Third-party data: Data provided from outside sources who didn’t collect it directly
+- Tibble (R): A streamlined variation of data frames 
+- Tidy data (R): A way of standardizing the organization of data within R
+- tidyr (R): An R package in Tidyverse used for data cleaning to make tidy data
+- Tidyverse (R): A system of packages in R with a common design philosophy for data manipulation, exploration, and visualization
+- Time-bound question: A question that specifies a timeframe to be studied 
+- Transaction transparency: The aspect of data ethics that presumes all data-processing activities and algorithms should be explainable and understood by the individual who provides the data
+- Transferable skills: Skills and qualities that can transfer from one job or industry to another
+- TRIM: A function that removes leading, trailing, and repeated spaces in data
+- TSV (Tab-separated values file): A text file that stores a data table by separating columns of data with tabs
+- Turnover rate: The rate at which employees voluntarily leave a company
+- Typecasting: Converting data from one type to another
+### U
+- Unbiased sampling: When the sample of the population being measured is representative of the population as a whole
+- - Underscores: Lines used to underline words and connect text characters
+- Unfair question: A question that makes assumptions or is difficult to answer honestly 
+- Unique: A value that can’t have a duplicate
+- United States Census Bureau: An agency in the U.S. Department of Commerce that serves as the nation’s leading provider of quality data about its people and economy
+- Unity: The design principle of using visual elements that complement each other to create aesthetic appeal and clarity in a data visualization
+- Unstructured data: Data that is not organized in any easily identifiable manner
+ ### V
+- Validity: The degree to which data conforms to constraints when it is input, collected, or created
+- VALUE: A spreadsheet function that converts a text string that represents a number to a numeric value
+- Variable (R): A representation of a value in R that can be stored for later use 
+- Variety: The design principle of using different kinds of visual elements in a data visualization to engage an audience
+- Vector (R): A group of data elements of the same type stored in a one-dimensional sequence in R
+- Verification: A process to confirm that a data-cleaning effort was well executed and the resulting data is accurate and reliable
+- Video file: A collection of images, audio files, and other data usually encoded in a compressed format such as MP4, MV4, MOV, AVI, or FLV
+- Vignette (R): Documentation for an R package that describes the problem the package is designed to solve, explains how its functions can be used, and lists any dependencies on other packages
+- Visual form: The appearance of a data visualization that gives it structure and aesthetic appeal
+- Visualization: (Refer to Data visualization) 
+- VLOOKUP: A spreadsheet function that vertically searches for a certain value in a column to return a corresponding piece of information
+### W
+- WHERE: The section of a query that specifies criteria that the requested data must meet
+- Wide data: A dataset in which every data subject has a single row with multiple columns to hold the values of various attributes of the subject
+- WITH: A SQL clause that creates a temporary table that can be queried multiple times
+- World Health Organization: An organization whose primary role is to direct and coordinate international health within the United Nations system
+### X
+- X-axis: The horizontal line of a graph usually placed at the bottom, which is often used to represent time scales and discrete categories
+### Y
+- Y-axis: The vertical line of a graph usually placed to the left, which is often used to represent frequencies and other numerical variables
+- YAML: A language that translates data to improve readability
 
